@@ -15,7 +15,7 @@ const N = 4
 """
     const Vec = SVector{$N,$T}
 
-This is the vector type used my $(@__MODULE__).
+This is the vector type used by $(@__MODULE__).
 """
 const Vec = SVector{N,T}
 
