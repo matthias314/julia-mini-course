@@ -1,4 +1,5 @@
 name = "TestModule"
+uuid = "acae21e7-7dd9-4896-9f2e-b001559d64f2"
 
 [deps]
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
